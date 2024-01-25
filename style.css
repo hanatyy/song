@@ -5,7 +5,7 @@
 body {
   font-family: Helvetica, Arial;
   margin: 0;
-  background-color:transparent;
+  background-color:"#fff";
 }
 
 #app-cover {
@@ -39,7 +39,7 @@ body {
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: #fff;
+  background-color: "#fff";
   opacity: 0.51;
   z-index: 2;
 }
