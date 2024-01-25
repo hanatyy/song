@@ -30,26 +30,14 @@ $(function () {
     buffInterval = null,
     tFlag = false,
     albums = [
-      "Dawn",
-      "Me & You",
-      "Electro Boy",
-      "Home",
-      "Proxy (Original Mix)"
+      "Single"
     ],
     trackNames = [
-      "Skylike - Dawn",
-      "Alex Skrindo - Me & You",
-      "Kaaze - Electro Boy",
-      "Jordan Schor - Home",
-      "Martin Garrix - Proxy"
+      "Austin Farwell - New Home"
     ],
     albumArtworks = ["_1"]
     trackUrl = [
-      "https://github.com/hanatyy/song-file/raw/main/New%20Home-%20Austin%20Farwell.mp3",
-      "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/1.mp3",
-      "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/3.mp3",
-      "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/4.mp3",
-      "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/5.mp3"
+      "https://github.com/hanatyy/song-file/raw/main/New%20Home-%20Austin%20Farwell.mp3"
     ],
     playPreviousTrackButton = $("#play-previous"),
     playNextTrackButton = $("#play-next"),
