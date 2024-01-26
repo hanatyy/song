@@ -30,7 +30,7 @@ $(function () {
     buffInterval = null,
     tFlag = false,
     albums = [
-      "Channel Orange",
+      "Evermore",
       "Five Seconds Flat",
       "Single",
       "Single"
